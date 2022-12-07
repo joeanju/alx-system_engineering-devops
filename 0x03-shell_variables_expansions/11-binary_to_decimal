@@ -1,0 +1,2 @@
+#!/bin/bash
+Echo $((2#$BINARY))
